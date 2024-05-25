@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thenameisngr" height="30" width="40" /></a>
 <a href="https://instagram.com/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisngr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thenameisngr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thenameisngr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/NGR_GOWDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="NGR_GOWDA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
