@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gangaraju N</h1>
 <h3 align="center">A passionate Data Analyst/Data Engineer/BigData Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameisngr&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisngr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenameisngr" alt="thenameisngr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thenameisngr" target="blank"><img src="https://img.shields.io/twitter/follow/thenameisngr?logo=twitter&style=for-the-badge" alt="thenameisngr" /></a> </p>
-
 - 🔭 A dedicated Data Analyst/Data Engineer with over 1 year of experience in India, committed to driving data-driven insights and solutions.
 
 - 💼 Experience: With over a year of experience in data analysis and engineering roles, I've contributed to Walmart's data initiatives, specializing in Python, SQL, and cloud platforms like AWS and Google Cloud.
@@ -18,8 +12,8 @@
 - 📫 How to reach me **thenameisngr@gmail.com**
 
 <h5 align="left">Connect with me:</h5>
+<p align="left"> <a href="https://www.linkedin.com/in/thenameisngr/" target="_blank"> <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="thenameisngr" /></a></p>
 <p align="left"><a href="https://twitter.com/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenameisngr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thenameisngr" height="30" width="30" /></a>
 <a href="https://instagram.com/thenameisngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisngr" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/NGR_GOWDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="NGR_GOWDA" height="30" width="30" /></a>
 </p>
@@ -67,9 +61,10 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> 
-  
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameisngr&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisngr" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenameisngr" alt="thenameisngr" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenameisngr&show_icons=true&locale=en&layout=compact" alt="thenameisngr" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thenameisngr&show_icons=true&locale=en" alt="thenameisngr" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisngr&" alt="thenameisngr" /></p>
