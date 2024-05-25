@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thenameisngr" target="blank"><img src="https://img.shields.io/twitter/follow/thenameisngr?logo=twitter&style=for-the-badge" alt="thenameisngr" /></a> </p>
 
-- 🔭 I’m currently working as a **Data Analyst** at Walmart
+- 🔭 A dedicated Data Analyst/Data Engineer with over 1 year of experience in India, committed to driving data-driven insights and solutions.
 
-- 👯 I’m looking to collaborate on **Data Engineering or Data Analyst projects**
+- 💼 Experience: With over a year of experience in data analysis and engineering roles, I've contributed to Walmart's data initiatives, specializing in Python, SQL, and cloud platforms like AWS and Google Cloud.
+
+- 🔍 Skills: Proficient in data warehousing (Amazon Redshift, Google BigQuery), visualization tools (Tableau, Power BI), and data manipulation libraries (Pandas, NumPy). I excel in ETL processes, data modeling, and predictive analytics.
+
+- 🤝 Collaboration: I thrive in collaborative environments and am eager to join projects that require expertise in data analysis and engineering. Let's collaborate to drive impactful outcomes!
 
 - 📫 How to reach me **thenameisngr@gmail.com**
 
