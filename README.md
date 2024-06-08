@@ -2,13 +2,10 @@
 <h3 align="center">A passionate Data Analyst/Data Engineer/BigData Engineer from India</h3>
 
 - 🔭 A dedicated Data Analyst/Data Engineer with over 1 year of experience in India, committed to driving data-driven insights and solutions.
-
 - 💼 Experience: With over a year of experience in data analysis and engineering roles, I've contributed to Walmart's data initiatives, specializing in Python, SQL, and cloud platforms like AWS and Google Cloud.
-
 - 🔍 Skills: Proficient in data warehousing (Amazon Redshift, Google BigQuery), visualization tools (Tableau, Power BI), and data manipulation libraries (Pandas, NumPy). I excel in ETL processes, data modeling, and predictive analytics.
-
 - 🤝 Collaboration: I thrive in collaborative environments and am eager to join projects that require expertise in data analysis and engineering. Let's collaborate to drive impactful outcomes!
-
+  
 - 📫 How to reach me **thenameisngr@gmail.com**
 
 <h5 align="left">Connect with me:</h5>
@@ -22,8 +19,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-
   
 <h3 align="left">Cloud Technologies:</h3>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
@@ -65,6 +60,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameisngr&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisngr" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenameisngr" alt="thenameisngr" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenameisngr&show_icons=true&locale=en&layout=compact" alt="thenameisngr" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thenameisngr&show_icons=true&locale=en" alt="thenameisngr" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisngr&" alt="thenameisngr" /></p>
