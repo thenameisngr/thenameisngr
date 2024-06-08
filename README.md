@@ -5,8 +5,13 @@
 - 💼 Experience: With over a year of experience in data analysis and engineering roles, I've contributed to Walmart's data initiatives, specializing in Python, SQL, and cloud platforms like AWS and Google Cloud.
 - 🔍 Skills: Proficient in data warehousing (Amazon Redshift, Google BigQuery), visualization tools (Tableau, Power BI), and data manipulation libraries (Pandas, NumPy). I excel in ETL processes, data modeling, and predictive analytics.
 - 🤝 Collaboration: I thrive in collaborative environments and am eager to join projects that require expertise in data analysis and engineering. Let's collaborate to drive impactful outcomes!
-  
-- 📫 How to reach me **thenameisngr@gmail.com**
+
+<h3 align="left">Educational Qualifications:</h3>
+<h4><i>Master's Degree</i> - KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION (Deemed to be University)</h4>
+<li>Master of Science in Data Science(DS)</li>
+
+<h4><i>Bachelor's Degree</i> - Jawaharlal Nehru Technological University, Anantapur</h4>
+<li>Bachelor of Technology (B.Tech) in Computer Science & Engineering(CSE)</li>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left"> <a href="https://www.linkedin.com/in/thenameisngr/" target="_blank"> <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="thenameisngr" /></a></p>
